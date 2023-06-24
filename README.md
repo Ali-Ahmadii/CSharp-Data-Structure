@@ -5,7 +5,7 @@ C# Data Structures
   -[Simple List]
   -Linked List
 -2:Stacks and Queues
-  -Stacks
+  -1 Stacks
   -Queues
   -Priority queues
 -3:Dictionaries and Sets
