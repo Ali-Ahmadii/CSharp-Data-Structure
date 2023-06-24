@@ -2,8 +2,8 @@ C# Data Structures
 ## Contents
 - [1:Arrays&Lists](Arrays%20And%20Lists)
   - [Sorting Algorithms](Arrays%20And%20Lists/Soritng_Algorithms)
-  - [Simple List]
-  - Linked List
+  - Simple Lists
+  - Linked Lists
 - 2:Stacks and Queues
   - Stacks
   - Queues
