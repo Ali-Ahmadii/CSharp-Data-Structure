@@ -9,7 +9,6 @@ C# Data Structures
 - 3 : [Dictionaries and Sets](Dictionaries%20and%20Sets)
   - [Hash tables](Dictionaries%20and%20Sets/Hash%20tables)
   - [Dictionaries](Dictionaries%20and%20Sets/Dictionaries)
-  - Hash sets
 - 4 : Variants of Trees
   - Basic trees
   - Binary trees
