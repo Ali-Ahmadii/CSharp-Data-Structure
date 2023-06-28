@@ -3,10 +3,9 @@ C# Data Structures
 - [ 1: Arrays&Lists](Arrays%20And%20Lists)
   - [Sorting Algorithms](Arrays%20And%20Lists/Soritng%20Algorithms)
   - [Simple Lists & Linked Lists](Arrays%20And%20Lists/Simple%20Lists%20and%20Linked%20List)
-- 2 : Stacks and Queues
-  - Stacks
-  - Queues
-  - Priority queues
+- 2 : [Stacks and Queues](Stacks%20and%20Queues)
+  - [Stacks](Stacks%20and%20Queues/Stacks)
+  - [Queues](Stacks%20and%20Queues/Queues)
 - 3 : Dictionaries and Sets
   - Hash tables
   - Dictionaries
