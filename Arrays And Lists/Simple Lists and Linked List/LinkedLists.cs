@@ -10,7 +10,7 @@ namespace DS.Arrays_And_Lists.Simple_Lists.LinkedLists
     public class LinkedLists
     {
 
-        static void Main(string[] args)
+  /*      static void Main(string[] args)
         {
             Person p1 = new Person(){Name = "Ali"};
             Person p2 = new Person(){Name = "X"};
@@ -20,5 +20,6 @@ namespace DS.Arrays_And_Lists.Simple_Lists.LinkedLists
             people.AddFirst(p2);
             people.AddLast(p3);
         }
+  */
     }
 }
