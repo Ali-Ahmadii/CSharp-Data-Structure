@@ -10,7 +10,7 @@ namespace DS.Dictionaries_and_Sets.Hash_tables
 {
     public class HashTables
     {
-        public static void Main()
+      /*  public static void Main()
         {
             Hashtable mytable = new Hashtable();
             mytable.Add("03", "Ali");
@@ -41,5 +41,6 @@ namespace DS.Dictionaries_and_Sets.Hash_tables
             // To get the values alone, use the Values property.
             //ICollection valueColl = mytable.Values;
         }
+      */
     }
 }
