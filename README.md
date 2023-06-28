@@ -6,8 +6,8 @@ C# Data Structures
 - 2 : [Stacks and Queues](Stacks%20and%20Queues)
   - [Stacks](Stacks%20and%20Queues/Stacks)
   - [Queues](Stacks%20and%20Queues/Queues)
-- 3 : Dictionaries and Sets
-  - Hash tables
+- 3 : [Dictionaries and Sets](Dictionaries%20and%20Sets)
+  - [Hash tables](Dictionaries%20and%20Sets/Hash%20tables)
   - Dictionaries
   - Hash sets
 - 4 : Variants of Trees
